@@ -182,14 +182,17 @@ body {
 }
 
 .income {
-    float: left;
-    width: 475px;
-    margin-right: 50px;
+    /* float: left; */
+    width: auto;
+    
+    /* margin-right: 50px; */
 }
 
 .expenses {
-    float: left;
-    width: 475px;
+    /* float: left;
+    width: 475px; */
+    width: auto;
+    
 }
 
 h2 {
